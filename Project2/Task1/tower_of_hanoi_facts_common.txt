@@ -1,0 +1,11 @@
+(disca Object)
+(discb Object)
+(discc Object)
+(disc1 Object)
+(disc2 Object)
+
+(preconds 
+(on disc1 disc2) (on disc2 disca) (clear disc1) (clear discb) (clear discc)
+(smaller disc1 disca) (smaller disc1 discb) (smaller disc1 discc) (smaller disc2 disca ) (smaller disc2 discb ) (smaller disc2 discc)
+(smaller disc1 disc2)
+) disc
