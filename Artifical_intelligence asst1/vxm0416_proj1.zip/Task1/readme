@@ -1,0 +1,4 @@
+for uninformed method:
+python3 find_route.py input1.txt London Kassel h_kassel.txt
+for heuristic/informed method:
+python3 find_route.py input1.txt London Kassel
